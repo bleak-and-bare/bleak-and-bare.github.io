@@ -32,15 +32,13 @@ function computeXP() {
     const now = new Date();
 
     const avgYearMs = 1000 * 60 * 60 * 24 * 365.2425;
-    const years = (now - start) / avgYearMs;
+    const years = (now.getTime() - start.getTime()) / avgYearMs;
 
     const iYears = Math.floor(years);
     return years - iYears > 0.5 ? iYears + 1 : (iYears + 0.5);
 }
 
 function About() {
-
-
   const cards: ICardProps[] = [
     {
       icon: <FaAward />,
