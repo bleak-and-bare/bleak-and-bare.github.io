@@ -51,7 +51,7 @@ function Header() {
           >
             <FaLinkedin />
           </a>
-          <a href="https://github.com/acf-patrick" target="_blank">
+          <a href="https://github.com/bleak-and-bare" target="_blank">
             <FaGithub />
           </a>
           <a href="https://web.facebook.com/profile.php?id=100009539585801">

@@ -24,7 +24,7 @@ function Portfolio() {
       title: "Mozika",
       description:
         "Music player for desktop, built for Windows only for the time being. This was my first project with Rust 🦀.",
-      github: "https://github.com/acf-patrick/music-player",
+      github: "https://github.com/bleak-and-bare/music-player",
       image: "/assets/images/portfolios/music-player.png",
       topics: ["Rust", "React", "Tauri", "Actix", "Styled Components"],
     },
@@ -32,7 +32,7 @@ function Portfolio() {
       title: "SAGE Pharmacy",
       description:
         "SAGE application for Pharmacy management. Learned a lot of things from this project, such as AWS, app containerization and github workflow.",
-      github: "https://github.com/acf-patrick/SAGE-pharmacy",
+      github: "https://github.com/bleak-and-bare/SAGE-pharmacy",
       demoLink: "http://3.19.232.21/",
       image: "/assets/images/portfolios/sage-pharmacy.png",
       topics: ["React", "Nest", "Rust", "Docker"],
@@ -41,7 +41,7 @@ function Portfolio() {
       title: "Streamly",
       description:
         "Web platform for video streaming. Users can stream videos and manage theirs.",
-      github: "https://github.com/acf-patrick/nest-react-stream-app",
+      github: "https://github.com/bleak-and-bare/nest-react-stream-app",
       demoLink: "https://streamly-oti2.onrender.com",
       image: "/assets/images/portfolios/streamly.png",
       topics: ["NestJs", "React", "Multer"],
@@ -50,7 +50,7 @@ function Portfolio() {
       title: "Spotifew",
       description:
         "Web Application built with Spotify API. This project helped me to understand OAuth.",
-      github: "https://github.com/acf-patrick/spotifew",
+      github: "https://github.com/bleak-and-bare/spotifew",
       demoLink: "https://spotifew.netlify.app",
       image: "/assets/images/portfolios/spotifew.png",
       topics: ["React", "ExpressJs", "OAuth"],
@@ -59,7 +59,7 @@ function Portfolio() {
       title: "Text extractor",
       description:
         "A desktop application built around Tesseract that allows you to extract text from an image.",
-      github: "https://github.com/acf-patrick/text-recognition",
+      github: "https://github.com/bleak-and-bare/text-recognition",
       image: "/assets/images/portfolios/text-recognition.png",
       topics: ["Tauri", "React", "Tesseract"],
     },
@@ -67,7 +67,7 @@ function Portfolio() {
       title: "Family Guy",
       description:
         "Fullstack application built with Next.js made for all Family guy fans.",
-      github: "https://github.com/acf-patrick/family-guy",
+      github: "https://github.com/bleak-and-bare/family-guy",
       demoLink: "https://family-guy-app.vercel.app",
       image: "/assets/images/portfolios/family-guy.png",
       topics: ["Next.js", "Vercel"],
@@ -76,7 +76,7 @@ function Portfolio() {
       title: "Chat application",
       description:
         "Small chat application ↔️ project written with React and Actix-web. The design is inspired by Socket.IO and uses Actix's actor pattern",
-      github: "https://github.com/acf-patrick/rust_web_socket",
+      github: "https://github.com/bleak-and-bare/rust_web_socket",
       image: "/assets/images/portfolios/chat-app.png",
       topics: ["Rust", "React", "Actix", "Web Socket"],
     },
@@ -84,7 +84,7 @@ function Portfolio() {
       title: "Morpion-web",
       description:
         "Common thing when starting with web-socket, building a Tic-tac-toe ⭕❌ game. Because why not ?",
-      github: "https://github.com/acf-patrick/morpion-web",
+      github: "https://github.com/bleak-and-bare/morpion-web",
       image: "/assets/images/portfolios/tic-tac-toe.png",
       demoLink: "https://morpion-web.netlify.app",
       topics: ["React", "ExpressJs", "Socket.io", "Styled Components"],
@@ -94,8 +94,8 @@ function Portfolio() {
       description:
         "React integration of a E-learning website designed by © Educrat",
       image: "/assets/images/portfolios/haizara.jpg",
-      github: "https://github.com/acf-patrick/haizara",
-      demoLink: "https://acf-patrick.github.io/haizara/",
+      github: "https://github.com/bleak-and-bare/haizara",
+      demoLink: "https://bleak-and-bare.github.io/haizara/",
       topics: ["React", "SASS"],
     },
     {
@@ -103,21 +103,21 @@ function Portfolio() {
       description:
         "Chip-8 emulator written in C++. Rendering is handled by SDL.",
       image: "/assets/images/portfolios/chip-8.png",
-      github: "https://github.com/acf-patrick/chip-8-interpreter",
+      github: "https://github.com/bleak-and-bare/chip-8-interpreter",
       topics: ["C++", "Emulator"],
     },
     {
       title: "Tiles Adventure",
       description: "2D platformer game written in C++",
       image: "/assets/images/portfolios/tiles-adventure.png",
-      github: "https://github.com/acf-patrick/Tiles-Adventure",
+      github: "https://github.com/bleak-and-bare/Tiles-Adventure",
       topics: ["C++", "Game"],
     },
     {
       title: "Flappy Bird",
       description: "C++ implementation of the popular mobile game",
       image: "/assets/images/portfolios/flappy-bird.png",
-      github: "https://github.com/acf-patrick/flappy-bird-sdl",
+      github: "https://github.com/bleak-and-bare/flappy-bird-sdl",
       topics: ["C++", "Game"],
     },
   ];
