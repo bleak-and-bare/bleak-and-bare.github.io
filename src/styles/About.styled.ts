@@ -43,7 +43,7 @@ const Photo = styled.div<{ inView: boolean }>`
   div {
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
+    transform: rotate(-7deg);
     transition: ${({ theme }) => theme.transition};
 
     &:hover {
